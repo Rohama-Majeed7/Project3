@@ -107,6 +107,7 @@ main {
   }
   main{
     height: 50vh;
+    width: 80vw;
   }
   .logo-photo {
     width: 30px;
