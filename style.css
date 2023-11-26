@@ -29,7 +29,7 @@ main {
   margin: 0 auto;
 }
 .section {
-  box-shadow: 2px 2px 3px 3px rgba(0, 0, 0, 0.418);
+  box-shadow: 2px 2px 3px 8px rgba(0, 0, 0, 0.371);
   padding: 1rem 2.5rem;
   border-radius: 0.4rem;
 }
@@ -46,7 +46,7 @@ main {
   gap: 1rem;
 }
 .div-3 h3 {
-  color: rgba(51, 49, 49, 0.848);
+  color: #4e5458;
 }
 .div-3 p {
   margin: 0.5rem 0;
@@ -64,7 +64,7 @@ main {
   margin: 0.5rem 0;
 }
 .div-4 ul li b {
-  color: rgba(51, 49, 49, 0.848);
+  color:#4e5458;
 }
 .div-5 p {
   color: gray;
@@ -80,6 +80,9 @@ main {
   display: flex;
   gap: 1rem;
   align-items: center;
+}
+.div-8 h4{
+  color: #4e5458;
 }
 .chrome {
   width: 40px;
