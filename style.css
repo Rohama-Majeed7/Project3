@@ -103,19 +103,19 @@ main {
 }
 @media screen and (max-width: 600px) {
   body {
-    font-size:12px;
+    font-size: 12px;
   }
-  .section{
+  .section {
     padding: 10px;
   }
   .logo-photo {
     width: 30px;
     height: 30px;
   }
-  .div-4{
+  .div-4 {
     display: block;
   }
-  .div-4 ul{
+  .div-4 ul {
     padding: 0;
   }
   .div-2 {
