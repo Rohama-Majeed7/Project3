@@ -46,7 +46,7 @@ main {
   gap: 1rem;
 }
 .div-3 h3 {
-  color: rgb(63, 61, 61);
+  color: rgba(51, 49, 49, 0.848);
 }
 .div-3 p {
   margin: 0.5rem 0;
@@ -64,7 +64,7 @@ main {
   margin: 0.5rem 0;
 }
 .div-4 ul li b {
-  color: rgb(51, 49, 49);
+  color: rgba(51, 49, 49, 0.848);
 }
 .div-5 p {
   color: gray;
@@ -92,6 +92,9 @@ main {
   border: none;
   background-color: green;
   border-radius: 0.2rem;
+  width: 180px;
+  display: flex;
+  justify-content: space-evenly;
 }
 @media screen and (max-width: 600px) {
   .section {
