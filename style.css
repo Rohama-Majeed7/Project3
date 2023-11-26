@@ -29,7 +29,7 @@ main {
   margin: 0 auto;
 }
 .section {
-  box-shadow: 2px 2px 15px 0px rgba(0, 0, 0, 0.236);
+  box-shadow: 2px 2px 10px 20px rgba(0, 0, 0, 0.236);
   padding: 1rem 2.5rem;
   border-radius: 0.4rem;
 }
